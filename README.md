@@ -1,4 +1,4 @@
-# Residential Management System 
+# Residential Management System (Completion date: 12/2023)
 
 > A Java-based mini project developed as part of the *Object-Oriented Programming* course.
 
